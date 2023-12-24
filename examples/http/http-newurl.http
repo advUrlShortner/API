@@ -1,0 +1,6 @@
+POST /api/newurl/ HTTP/1.1
+Content-Type: application/json
+Host: illi.cfd
+Content-Length: 81
+
+{"url":"http://google.com/?z=1",  "second_url":"http://yahoo.com/", "pass":"aaa"}

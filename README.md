@@ -2,7 +2,7 @@
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
-Sshort urls with advanced options. Multiple domains, URL TTL, split tests, visit statistics etc.
+Shorten urls API with advanced options.  Multiple domains, URL TTL, split tests, visit statistics etc.
  
 ## Features
 
@@ -45,7 +45,7 @@ Sshort urls with advanced options. Multiple domains, URL TTL, split tests, visit
 
 ### Getting new short URL
 
-POST request to /newurl/ in JSON
+POST request to `/newurl/` in JSON
 
 #### Fields:
 
@@ -57,8 +57,10 @@ POST request to /newurl/ in JSON
 | weights | Only with second_url. Weights for randomized redirects. I.e [0.3,0.7]  approximately 30% to primary URL and 70% to secondary URL | True | Array of floats |
 | pass | Password to to access visiting statistics and shortened URL parameters. | True | String |
 
+
+
 ### Getting short url parameters and visiting statistics
-POST request to /stat/ in JSON
+POST request to `/stat/` in JSON
 
 #### Fields:
 

@@ -15,10 +15,10 @@ Sshort urls with advanced options. Multiple domains, URL TTL, split tests, visit
 - Password protected shortened URL parameters (TTL, second URL, etc.)
 
 ## API endpoints
-- advurlshortner.top
-- illi.cfd
-- illi.ink
-- liii.pw
+- https://advurlshortner.top
+- https://illi.cfd
+- https://illi.ink
+- https://liii.pw
 
 ## Usage examples:
 

@@ -4,7 +4,7 @@
 
 Shorten urls API with advanced options.  Multiple domains, URL TTL, split tests, visit statistics etc.
  
-## Features
+## Features:
 
 - Easy to use
 - Multiple domains
@@ -14,11 +14,14 @@ Shorten urls API with advanced options.  Multiple domains, URL TTL, split tests,
 - Password-protected statistics of visits to a shortened URL
 - Password protected shortened URL parameters (TTL, second URL, etc.)
 
-## API endpoints
-- https://advurlshortner.top
+## API endpoints:
+- https://advurlshortner.top (Recomended)
 - https://illi.cfd
 - https://illi.ink
 - https://liii.pw
+
+## Libraries
+- [python](https://github.com/advUrlShortner/advurl-shortner-python/)
 
 ## Usage examples:
 

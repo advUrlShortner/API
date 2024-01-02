@@ -2,7 +2,7 @@
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
-Shorten urls API with advanced options.  Multiple domains, URL TTL, split tests, visit statistics etc.
+Easy-to-use, powerful API to help you to shorten urls with advanced options. Supports multiple domains, URL TTL, split tests, visit statistics etc.
  
 ## Features:
 

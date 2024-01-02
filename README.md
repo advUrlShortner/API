@@ -8,7 +8,7 @@ Easy-to-use, powerful API to help you to shorten urls with advanced options. Sup
 
 - Easy to use
 - Multiple domains
-- Link TTL (Time-To-Live) in seconds
+- URL TTL (Time-To-Live) in seconds. Auto expiry URL after some time
 - Redirect to second URL after primary URL expires (TTL)
 - Randomized and weighted randomnized redirect to different URLs (split tests etc.)
 - Password-protected statistics of visits to a shortened URL

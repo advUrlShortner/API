@@ -58,7 +58,8 @@ POST request to `/newurl/` in JSON
 | second_url | Secondary URL. For randomized output or after expiring primary URL (see ttl parameter) | True | String |
 | ttl | Time-To-Live of primary URL. Will return "The Link You Followed Has Expired" after expiring or redirects to "second_url" if it is defined | True | Integer |
 | weights | Only with second_url. Weights for randomized redirects. I.e [0.3,0.7]  approximately 30% to primary URL and 70% to secondary URL | True | Array of floats |
-| pass | Password to to access visiting statistics and shortened URL parameters. | True | String |
+| pass | Password to to access visiting statistics and shortened URL parameters | True | String |
+| description | URL description | True | String |
 
 
 
@@ -80,6 +81,7 @@ POST request to `/stat/` in JSON
 	"ttl": null,
 	"date_created": "1703411470",
 	"weights": null,
+	"description":"Yahoo search engine",
 	"visits": 4,
 	"primary_url_expired": false
 }

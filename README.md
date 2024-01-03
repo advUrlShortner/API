@@ -1,8 +1,8 @@
-# Advanced URL Shortener (AdvURLShortner) API
+# Advanced URL Shortener API (AdvURLShortner)
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
-Easy-to-use, powerful API to help you to shorten urls with advanced options. Supports multiple domains, URL TTL, split tests, visit statistics etc.
+Free, easy-to-use, powerful API to help you to shorten urls with advanced options. Supports multiple domains, URL TTL, split tests, visit statistics etc.
  
 ## Features:
 
